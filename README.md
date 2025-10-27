@@ -1,4 +1,4 @@
 # hello-world
 Test repository
 
-Changind this file for testing purposes.
+Changing this file for testing purposes.
